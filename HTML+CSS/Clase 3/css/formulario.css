@@ -1,0 +1,23 @@
+body{
+  background-image: url(../fondo-formulario.png);
+  margin: 60px 280px;
+  text-align: center;
+}
+label{
+  font-size: 20px;
+}
+input:focus{
+  background-color: rgba(196, 3, 167, 0.34);
+}
+textarea{
+  resize: vertical;
+  width: 350px;
+  text-align: center;
+}
+legend{
+  margin-bottom: 22px;
+  font-size: 25px;
+}
+fieldset{
+  background: linear-gradient(45deg, white, transparent);
+}

@@ -1,0 +1,128 @@
+
+.primer-banner{
+  background-color: #18BC9C;
+}
+.profile{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 5%;
+  color: white;
+}
+
+h2{
+  font-family: 'Montserrat' sans-serif;
+  font-weight: 700;
+  font-size: 6em;
+}
+.titulo{
+  margin: 3%;
+}
+.img-profile{
+  display: flex;
+  width: 260px;
+}
+p{
+  font-size: 2.07em;
+  font-family: 'Lato', sans-serif;
+}
+.container-fluid{
+padding: 0;
+}
+.img-portfolio{
+  width: 100%;
+  padding-top: 7%;
+
+}
+.portfolio{
+  padding-left: 6%;
+  padding-right: 6%;
+  padding-bottom: 6%;
+}
+h3{
+  text-align: center;
+  font-family: 'Montserrat' sans-serif;
+  font-weight: 700;
+  font-size: 50px;
+  color: #2C3E50;
+}
+.segundo-banner{
+  padding-top: 5%;
+  }
+h4{
+  text-align: center;
+  font-family: 'Montserrat' sans-serif;
+  font-weight: 700;
+  font-size: 50px;
+  color: white;
+  padding-top: 4%;
+}
+.tercer-banner{
+  background-color: #18BC9C;
+  padding-bottom: 4%;
+}
+.p-about{
+  font-size: 1.5em;
+}
+.text-about{
+  color: white;
+  padding-top: 4%;
+}
+.control-group{
+  margin-bottom: 1rem;
+  font-style: normal;
+  line-height: inherit;
+}
+.form-control{
+  border-top: none;
+  border-right: none;
+  border-left: none;
+}
+#contactForm{
+      padding-top: 4%;
+}
+label{
+  font-size: 1.5em;
+}
+.cuarto-banner{
+  padding-top: 4%;
+  padding-bottom: 4%;
+}
+#sendMessageButton{
+  color: #fff;
+    background-color: #1abc9c;
+    border-color: #1abc9c;
+    padding: 1rem 1.75rem;
+    font-size: 1.25rem;
+}
+.btn{
+  padding: 1rem 1.75rem;
+  font-size: 1.25rem;
+}
+.collapse{
+  padding-bottom: 1%;
+  padding-left: 8%;
+  padding-right: 8%;
+  font-weight: bolder;
+}
+.navbar-brand{
+      font-size: 2.3em;
+}
+.quinto-banner{
+  background-color: #2C3E50;
+  color: white;
+}
+h5{
+  font-family: 'Montserrat' sans-serif;
+  font-size: 1.8em;
+  color: white;
+  font-weight: 700;
+}
+.footer{
+  padding-top: 5%;
+  padding-bottom: 6%;
+}
+.logos a{
+      padding: 1rem 1.24rem!important;
+      border-radius: 50%;
+}

@@ -1,0 +1,57 @@
+html{
+	font-family: sans-serif;
+		background-image: url(../images/fondo.png);
+		background-attachment: fixed;
+		padding: 15px 35px 35px 35px;
+}
+h1{
+	font-family: 'Vast Shadow', cursive;
+	font-style: italic;
+	text-align: center;
+	color: red;
+	font-size: 38px;
+	text-decoration: underline;
+	background-color: rgba(203, 58, 82, 0.43);
+}
+h2{
+	font-family: 'Squada One', cursive;
+	color: crimson;
+	text-decoration:underline;
+  font-weight: inherit;
+}
+h4{
+	font-weight: inherit;
+	color: #ab47bc;
+}
+p{
+	text-align: justify;
+	font-size: 14px;
+	line-height: 23px;
+}
+h5{
+	font-weight: inherit;
+}
+h3{
+	font-weight: inherit;
+	color: #ab47bc;
+	text-decoration:underline;
+}
+.ancla{
+	text-decoration: none;
+}
+.destacado{
+	background-color: rgba(128, 203, 58, 0.43);
+  color: black;
+	font-size: 22px;
+}
+img{
+	border: solid 4px;
+}
+.contenedorc{
+	padding:15px 180px 15px 95px;
+
+}
+.descripcion{
+	float: right;
+	font-size: 22px;
+}

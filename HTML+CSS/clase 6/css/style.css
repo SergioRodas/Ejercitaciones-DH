@@ -1,0 +1,48 @@
+*{
+  box-sizing: border-box;
+}
+body{
+
+}
+.contenedor{
+  max-width: 1200px;
+  margin: 0 auto;
+  border-style: solid;
+  border-color: black;
+  overflow: hidden;
+}
+.cajaa{
+  width: 20.83%;
+  border-style: solid;
+  background-color: rgba(173, 116, 226, 1);
+  float: left;
+}
+.cajab{
+  width: 66.66%;
+  border-style: solid;
+  background-color: rgba(36, 198, 196, 1);
+  float: left;
+  margin-left: 2.083%;
+  margin-right: 2.083%;
+}
+.cajac{
+  width: 8.33%;
+  border-style: solid;
+  background-color: rgba(223, 83, 104, 1);
+  float: left;
+}
+.cabecera{
+  width: 100vw;
+  height: 20vh;
+  border-style: solid;
+  background-color: rgba(221, 223, 83, 1);
+}
+h2{
+font-size: 1.75em;
+}
+p{
+  font-size: 0.8125em;
+}
+strong{
+  font-size: 1.1538461538em;
+}
